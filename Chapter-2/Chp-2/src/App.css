@@ -1,0 +1,9 @@
+:root{
+  --primeryColor: black;
+  --secondColort: red;
+}
+
+.container{
+  background-color: var(--primeryColor);
+  color: var(--secondColort);
+}
