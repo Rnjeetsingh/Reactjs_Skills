@@ -28,6 +28,16 @@ Chapter-3 :
         7.Async and await.
 
 Chapter-4 : 
-        1.memo
-        2.Rendring state
+        1.memo.
+        2.Rendring state.
+        3.useMemo.
+        4.dependecy.
+
+Chapter-5 : 
+        1.contextAPI.
+        2.creatContext.
+        3.Provider and Consumer.
+        4.Stop Props Drilling.        
+        5.useContext.
+
 
