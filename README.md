@@ -40,4 +40,28 @@ Chapter-5 :
         4.Stop Props Drilling.        
         5.useContext.
 
+Chapter-6 : 
+        1.useReducer.
+        2.state and dispatch.
+        3.action , type and payload.
+        4.Switch function.        
+        5.Fetch data, async and await.
+        6.map,filtir,list.
+
+Chapter-7 : 
+        1.useRef.
+        2.render.current.
+        3.ref={data}.
+        4.useRef DOM.        
+        5.Help to select element.       
+
+Chapter-8 : 
+        1.customHook.
+        2.creat lowercase componet.
+        3.return store state inside [data],{data}.
+        4.To use customHook import first.        
+        5.Import and use const [data] = useCostom().
+        6.Help to use same data in different components.           
+        
+
 
