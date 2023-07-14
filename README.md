@@ -91,6 +91,11 @@ Chapter-10 :
         1.useTransition.
         2.It's update the state without blocking the UI.
         3.It's specify any state updates as non-urgent.
+
+Chapter-11 : 
+        1.HigherOrderComponent.
+        2.higher-order component is a function that takes in a component and returns a new component. Using code, we can rewrite the above statement like so: const newComponent = higherFunction(WrappedComponent).
+        3. higher-order component (HOC) is an advanced technique in React for reusing component logic.     
              
 
         
